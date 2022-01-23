@@ -1,2 +1,2 @@
 # SparkProject
-Code submitted for customer segmentation project using Apache Spark (PySpark)
+Code submitted for customer segmentation project using Spark streaming (via PySpark)
